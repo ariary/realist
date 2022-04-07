@@ -32,4 +32,4 @@ erDiagram
     bruteforce-tool ||--o{ authentication-endpoint : "brute force"
 ```
 
-***Notes:*** Have to find a way to split wordlist generation in equal subset (~split permutations)
+***Notes:*** Have to find a way to split wordlist generation in equal subset (~split cartesian product)
