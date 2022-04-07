@@ -1,6 +1,6 @@
 # realist
 
-Constraint-based wordlist generator
+**~`crunch` + distributed wordlist generation**
 
 ***🚧 Work in progress...***
 
